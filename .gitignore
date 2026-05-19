@@ -1,0 +1,11 @@
+# Ignore data files (too large for GitHub)
+*.csv
+*.dat
+*.htm
+*.pdf
+
+# Ignore environment files
+venv/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
